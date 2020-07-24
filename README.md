@@ -18,7 +18,7 @@ $ pip2 install requests
 $ git clone https://github.com/AnonRoz-Team/domain-to-ip
 $ cd wp-ot
   Target website with http or https
-$ python2 your-nick sc.html list-web.txt
+$ python2 wp-ot.py your-nick sc.html list-web.txt
 ```
 
 
