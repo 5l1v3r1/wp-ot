@@ -14,6 +14,7 @@ module requests
 # Installation
 ```
 $ pkg install python2
+$ pip2 install requests
 $ git clone https://github.com/AnonRoz-Team/domain-to-ip
 $ cd wp-ot
   Target website with http or https
