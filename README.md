@@ -17,7 +17,7 @@ $ pkg install python2
 $ git clone https://github.com/AnonRoz-Team/domain-to-ip
 $ cd wp-ot
   Target website with http or https
-$ python2 web-to-ip.py list-web.txt
+$ python2 your-nick sc.html list-web.txt
 ```
 
 
