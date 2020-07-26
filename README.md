@@ -21,5 +21,5 @@ $ cd wp-ot
 $ python2 wp-ot.py sc-name.html list-web.txt
 ```
 
+![ot](https://user-images.githubusercontent.com/65480013/88470323-33eb0000-cf25-11ea-9f7d-87eba24b1d08.JPG)
 
-![Screenshot_2020-07-09-19-47-25-1](https://user-images.githubusercontent.com/65480013/87042181-8043f980-c21d-11ea-9e43-48894377e716.png)
